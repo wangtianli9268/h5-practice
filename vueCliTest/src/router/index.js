@@ -34,7 +34,7 @@ export default new Router({
           path:'Hi2',
           name:'Hi2',
           component:Hi2
-        },
+        }
       ]
     }
   ]
