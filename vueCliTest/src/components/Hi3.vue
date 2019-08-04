@@ -19,6 +19,6 @@ export default {
   .msg{
     background-color: red;
     color: purple;
-    font-size: 40px;
+    
   }
 </style>
