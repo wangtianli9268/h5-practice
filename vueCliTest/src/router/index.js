@@ -22,7 +22,7 @@ export default new Router({
       children:[
         {
           path:'/',
-          // name:'HelloWorld/Hi',
+          name:'HelloWorld/Hi',
           component:Hi
         },
         {
