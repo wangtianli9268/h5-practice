@@ -11,7 +11,7 @@ export default {
   name:'Hi1',
   data(){
     return{
-      message:'I am Hi1 page.......'
+      message:'I am Hi1 Hi1 Hi1 Hi1 page.......'
     }
   }
 }
