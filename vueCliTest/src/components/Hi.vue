@@ -13,7 +13,7 @@ export default {
   name:'Hi',
   data(){
     return{
-      message:'welcome to inner Mongolia！！,,,,,'
+      message:'welcome to inner Mongolia！！,,,,,Mongolia！！Mongolia！！Mongolia！！'
     }
   }
 }
