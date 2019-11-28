@@ -88,12 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg:
-      '
-      barista,
-      Latta,
-      Amaricano
-      '
+      msg:'an extra shot!'
     }
   }
 }
