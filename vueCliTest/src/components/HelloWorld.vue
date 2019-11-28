@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a
-          href="https://vuejs.org"
+          href="1111"
           target="_blank"
         >
           Core Docs
@@ -13,7 +13,7 @@
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="2222"
           target="_blank"
         >
           Forum
@@ -85,10 +85,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld    ',
+  name: 'HelloWorld',
   data () {
     return {
-      msg: 'would you please send someone to pick up the laundry? thank you!'
+      msg:'Extra shot over ice, please!'
     }
   }
 }
