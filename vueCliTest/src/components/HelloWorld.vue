@@ -88,7 +88,8 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'would you please send someone to pick up the laundry? thank you!'
+      msg: 'would you please send someone to pick up the laundry? thank you!',
+      message:'I will send someone to you room right now'
     }
   }
 }
