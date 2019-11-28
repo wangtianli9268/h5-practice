@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a
-          href="http://www.baidu.com"
+          href="1111"
           target="_blank"
         >
           Core Docs
