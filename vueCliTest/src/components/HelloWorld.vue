@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a
-          href="https://vuejs.org"
+          href="http://www.baidu.com"
           target="_blank"
         >
           Core Docs
