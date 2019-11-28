@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg:'an extra shot!'
+      msg:'Extra shot over ice, please!'
     }
   }
 }
