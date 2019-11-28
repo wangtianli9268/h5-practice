@@ -85,7 +85,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'HelloWorld    ',
   data () {
     return {
       msg: 'would you please send someone to pick up the laundry? thank you!'
