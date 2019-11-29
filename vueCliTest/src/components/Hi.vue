@@ -14,7 +14,7 @@ export default {
   data(){
     return{
       message:'welcome to inner Mongolia！！,,,,,Mongolia！！Mongolia！！Mongolia！！',
-      msg:'wangwu改了点东西'
+      msg:'wangwu改了点东西,wangwu改了点东西,wangwu改了点东西,wangwu改了点东西'
     }
   }
 }
