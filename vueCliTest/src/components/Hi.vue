@@ -13,7 +13,8 @@ export default {
   name:'Hi',
   data(){
     return{
-      message:'welcome to inner Mongolia！！,,,,,Mongolia！！Mongolia！！Mongolia！！'
+      message:'welcome to inner Mongolia！！,,,,,Mongolia！！Mongolia！！Mongolia！！',
+      msg:'wangwu改了点东西'
     }
   }
 }
